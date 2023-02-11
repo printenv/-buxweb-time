@@ -1,7 +1,7 @@
 {
-  "name": "@buxweb/slider",
+  "name": "@buxweb/time",
   "version": "1.0.0",
-  "description": "home page utitlity.",
+  "description": "A facade for logics to deal with Date object. It is made for situations when you want to have time-offset fixed or making calendar system by yourself.",
   "main": "dist/index.js",
   "scripts": {
     "test": "vitest",
