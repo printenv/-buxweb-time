@@ -1,0 +1,17 @@
+{
+  "name": "@buxweb/slider",
+  "version": "1.0.0",
+  "description": "home page utitlity.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest",
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "BUX",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4",
+    "vitest": "^0.28.4"
+  }
+}
