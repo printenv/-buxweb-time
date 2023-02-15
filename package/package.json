@@ -1,6 +1,6 @@
 {
   "name": "@buxweb/calendar",
-  "version": "1.1.0",
+  "version": "0.1.0",
   "description": "Utility for making calendar",
   "main": "dist/calendar.js",
   "scripts": {
