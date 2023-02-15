@@ -1,8 +1,8 @@
 {
-  "name": "@buxweb/time",
-  "version": "1.0.0",
-  "description": "A facade for logics to deal with Date object. It is made for situations when you want to have time-offset fixed or making calendar system by yourself.",
-  "main": "dist/index.js",
+  "name": "@buxweb/calendar",
+  "version": "1.1.0",
+  "description": "Utility for making calendar",
+  "main": "dist/calendar.js",
   "scripts": {
     "test": "vitest",
     "build": "tsc",
